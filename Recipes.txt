@@ -9,4 +9,11 @@ rice
 onion
 tamales
 pizza
+orange
+bananas
+mangos
+lemon
+melon
+Done done well done
+
 Done deal

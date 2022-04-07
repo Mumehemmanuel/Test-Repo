@@ -7,3 +7,5 @@ janga
 beans
 rice 
 onion
+tamales
+pizza
